@@ -1,0 +1,17 @@
+.my-button {
+    background-color: lightgray;
+    width: 200px;
+    height: 40px;
+    cursor: pointer;
+    border: 5px blue solid;
+    color: brown;
+}
+
+.my-button:hover {
+    color: blue;
+    border: 5px brown solid;
+}
+
+.my-body {
+    text-align: center;
+}
